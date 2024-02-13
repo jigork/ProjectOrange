@@ -1,0 +1,4 @@
+function (startup)
+startup(
+  if not started
+then start)
