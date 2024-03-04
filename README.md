@@ -1,4 +1,4 @@
 # ProjectOrange
 
 please start here:
-orange is the new
+orange is the new code
